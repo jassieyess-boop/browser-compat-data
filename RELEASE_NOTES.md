@@ -1,5 +1,64 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.1.5](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.5)
+
+October 6, 2026
+
+### Removals
+
+- `api.VRStageParameters.sizeY` ([#30686](https://github.com/mdn/browser-compat-data/pull/30686))
+- `css.at-rules.page.bottom-center` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.bottom-left` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.bottom-left-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.bottom-right` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.bottom-right-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.left-bottom` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.left-middle` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.left-top` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.right-bottom` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.right-middle` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.right-top` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.top-center` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.top-left` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.top-left-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.top-right` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.top-right-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+
+### Additions
+
+- `api.VRStageParameters.sizeZ` ([#30686](https://github.com/mdn/browser-compat-data/pull/30686))
+- `browsers.chrome_android.releases.158` ([#30759](https://github.com/mdn/browser-compat-data/pull/30759))
+- `browsers.chrome.releases.158` ([#30759](https://github.com/mdn/browser-compat-data/pull/30759))
+- `browsers.webview_android.releases.158` ([#30759](https://github.com/mdn/browser-compat-data/pull/30759))
+- `css.at-rules.page.at_bottom-center` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_bottom-left` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_bottom-left-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_bottom-right` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_bottom-right-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_left-bottom` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_left-middle` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_left-top` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_right-bottom` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_right-middle` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_right-top` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_top-center` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_top-left` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_top-left-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_top-right` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.at_top-right-corner` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.at-rules.page.page-margin-safety` ([#30612](https://github.com/mdn/browser-compat-data/pull/30612))
+- `css.types.attr.raw-string` ([#30704](https://github.com/mdn/browser-compat-data/pull/30704))
+- `html.elements.script.type.module.http_errors_not_cached` ([#30604](https://github.com/mdn/browser-compat-data/pull/30604))
+- `javascript.operators.import.http_errors_not_cached` ([#30604](https://github.com/mdn/browser-compat-data/pull/30604))
+- `javascript.statements.import.http_errors_not_cached` ([#30604](https://github.com/mdn/browser-compat-data/pull/30604))
+
+### Statistics
+
+- 12 contributors have changed 30 files with 743 additions and 361 deletions in 23 commits ([`v8.1.4...v8.1.5`](https://github.com/mdn/browser-compat-data/compare/v8.1.4...v8.1.5))
+- 20,650 total features
+- 1,275 total contributors
+- 5,759 total stargazers
+
 ## [v8.1.4](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.4)
 
 October 1, 2026
