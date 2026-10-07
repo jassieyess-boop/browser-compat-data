@@ -1,4 +1,4 @@
-{
+{browser.pageAction.show
   "javascript": {
     "builtins": {
       "Promise": {
